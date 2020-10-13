@@ -11,6 +11,8 @@ The main idea with raycasting is, as the name suggests, a ray which is cast and 
 
 To get more information read the *report* in the repo.
 
-I must point out that all the code implemented by me and my colleague is in the **implementation.py** while the other *.py files have been made by the course organizers.
+We must point out that all the code implemented by me and my colleague is in the **implementation.py** while the other *.py files have been made by the course organizers.
 
+<img src="img/views_orange.png" alt="views_orange" style="width:90px;"/>
 
+<img src="img/views_mouseBrain.png" alt="views_mouseBrain" style="width:90px;"/>
